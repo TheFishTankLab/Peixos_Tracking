@@ -10,12 +10,12 @@ This software was financed by the Spanish MCIN/AEI/10.13039/501100011033, under 
 ### Installation 
 1 Clone repository from github: 
 ```bash
-git clone https://github.com/albertcalv/LYD-Peixos
+git clone https://github.com/TheFishTankLab/Peixos_Tracking
 ```
 
 2 Create new Conda environment
 ````bash
-cd LYD-Peixos
+cd Peixos_Tracking
 conda env create -f peixos-env.yml
 ````
 
